@@ -31,10 +31,12 @@ jobs:
     steps:
 
       - name: Checkout
-        uses: actions/checkout@build
+        uses: actions/checkout@master
         with:
-          ref: build
-
+          ref: master
+      - name: Check
+        run: |
+          git status
       - name: Space cleanup
         env:
           DEBIAN_FRONTEND: noninteractive
