@@ -10,9 +10,13 @@
 name: OpenWrt-CI
 
 on:
-  push:
-    branches: 
-      - build
+  repository_dispatch:
+  workflow_dispatch:
+    inputs:
+      ssh:
+        description: 'SSH connection to Actions'
+        required: false
+        default: 'false'
   # schedule:
   #   - cron: 0 20 * * *
   # release:
@@ -29,7 +33,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@build
         with:
-          ref: master
+          ref: build
 
       - name: Space cleanup
         env:
