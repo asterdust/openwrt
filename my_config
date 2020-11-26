@@ -42,141 +42,10 @@ CONFIG_HAVE_DOT_CONFIG=y
 # CONFIG_TARGET_uml is not set
 # CONFIG_TARGET_zynq is not set
 CONFIG_TARGET_x86=y
-# CONFIG_TARGET_ath79_generic is not set
-# CONFIG_TARGET_ath79_nand is not set
-# CONFIG_TARGET_ath79_tiny is not set
 # CONFIG_TARGET_x86_generic is not set
 # CONFIG_TARGET_x86_legacy is not set
 # CONFIG_TARGET_x86_geode is not set
 CONFIG_TARGET_x86_64=y
-# CONFIG_TARGET_MULTI_PROFILE is not set
-# CONFIG_TARGET_ath79_generic_Default is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_8dev_carambola2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_avm_fritz4020 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_avm_fritz300e is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_aruba_ap-105 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_buffalo_bhr-4grv is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_buffalo_bhr-4grv2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_buffalo_wzr-hp-ag300h is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_buffalo_wzr-hp-g302h-a1a0 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_buffalo_wzr-hp-g450h is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_comfast_cf-e110n-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_comfast_cf-e120a-v3 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_comfast_cf-e5 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_dlink_dir-825-b1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_dlink_dir-825-c1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_dlink_dir-835-a1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_dlink_dir-859-a1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_elecom_wrc-1750ghbk2-i is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_elecom_wrc-300ghbk2-i is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_embeddedwireless_dorin is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_engenius_ecb1750 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_engenius_epg5000 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_engenius_ews511ap is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_glinet_gl-ar150 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_glinet_gl-ar300m-lite is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_glinet_gl-x750 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_iodata_etg3-r is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_iodata_wn-ac1167dgr is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_iodata_wn-ac1600dgr is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_iodata_wn-ac1600dgr2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_iodata_wn-ag300dgr is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_librerouter_librerouter-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_nec_wg1200cr is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_nec_wg800hp is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_netgear_ex6400 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_netgear_ex7300 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_netgear_wndr3700 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_netgear_wndr3700v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_netgear_wndr3800 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ocedo_koala is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ocedo_raccoon is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ocedo_ursus is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_openmesh_om5p-ac-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_phicomm_k2t is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_pisen_wmm003n is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_pcs_cap324 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_pcs_cr3000 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_pcs_cr5000 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_rosinson_wr818 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-a7-v5 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c2-v3 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c25-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c5-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c58-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c59-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c6-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c60-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c60-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c60-v3 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c7-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c7-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c7-v4 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-c7-v5 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_archer-d50-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_cpe210-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_cpe210-v3 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_cpe220-v3 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_re350k-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_re450-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wdr3500-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wdr3600-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wdr4300-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wdr4300-v1-il is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wdr4310-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wdr4900-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr1043n-v5 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr1043nd-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr1043nd-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr1043nd-v3 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr1043nd-v4 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr2543-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr710n-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr710n-v2.1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr810n-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr810n-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr842n-v3 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr842n-v1 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_tplink_tl-wr842n-v2 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_airrouter is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_bullet-m is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_bullet-m-xw is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_lap-120 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_nanobeam-ac is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_nanostation-ac is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_nanostation-ac-loco is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_nanostation-loco-m is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_nanostation-loco-m-xw is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_nanostation-m is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_nanostation-m-xw is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_picostation-m is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_rocket-m is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_routerstation is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_routerstation-pro is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_unifi is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_unifiac-lr is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_unifiac-lite is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_unifiac-mesh is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_unifiac-mesh-pro is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_unifiac-pro is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_ubnt_acb-isp is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_wd_mynet-n750 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_wd_mynet-wifi-rangeextender is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_winchannel_wb2000 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_xiaomi_mi-router-4q is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_yuncore_a770 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_yuncore_a782 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_yuncore_xd4200 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_zbtlink_zbt-wd323 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_devolo_dvl1200e is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_devolo_dvl1200i is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_devolo_dvl1750c is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_devolo_dvl1750e is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_devolo_dvl1750i is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_devolo_dvl1750x is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_etactica_eg200 is not set
-# CONFIG_TARGET_ath79_generic_DEVICE_jjplus_ja76pf2 is not set
-# CONFIG_TARGET_x86_generic_Generic is not set
 CONFIG_TARGET_x86_64_Generic=y
 CONFIG_HAS_SUBTARGETS=y
 CONFIG_TARGET_BOARD="x86"
@@ -238,13 +107,6 @@ CONFIG_ARCH="x86_64"
 # Target Images
 #
 # CONFIG_TARGET_ROOTFS_INITRAMFS is not set
-# CONFIG_TARGET_INITRAMFS_COMPRESSION_NONE is not set
-# CONFIG_TARGET_INITRAMFS_COMPRESSION_GZIP is not set
-# CONFIG_TARGET_INITRAMFS_COMPRESSION_BZIP2 is not set
-# CONFIG_TARGET_INITRAMFS_COMPRESSION_LZMA is not set
-# CONFIG_TARGET_INITRAMFS_COMPRESSION_LZO is not set
-# CONFIG_TARGET_INITRAMFS_COMPRESSION_LZ4 is not set
-# CONFIG_TARGET_INITRAMFS_COMPRESSION_XZ is not set
 CONFIG_EXTERNAL_CPIO=""
 
 #
@@ -1557,7 +1419,7 @@ CONFIG_BUSYBOX_DEFAULT_FEATURE_IPC_SYSLOG_BUFFER_SIZE=0
 # CONFIG_BUSYBOX_DEFAULT_FEATURE_KMSG_SYSLOG is not set
 # CONFIG_PACKAGE_ca-bundle is not set
 # CONFIG_PACKAGE_ca-certificates is not set
-CONFIG_PACKAGE_dnsmasq=y
+# CONFIG_PACKAGE_dnsmasq is not set
 # CONFIG_PACKAGE_dnsmasq-dhcpv6 is not set
 CONFIG_PACKAGE_dnsmasq-full=y
 CONFIG_PACKAGE_dnsmasq_full_dhcp=y
@@ -4407,6 +4269,7 @@ CONFIG_PACKAGE_libjson-c=y
 CONFIG_PACKAGE_liblua=y
 CONFIG_PACKAGE_liblucihttp=y
 CONFIG_PACKAGE_liblucihttp-lua=y
+# CONFIG_PACKAGE_liblxc is not set
 # CONFIG_PACKAGE_liblzo is not set
 # CONFIG_PACKAGE_libmad is not set
 # CONFIG_PACKAGE_libmagic is not set
@@ -4629,6 +4492,7 @@ CONFIG_PACKAGE_libxml2=y
 CONFIG_RE2_SHARED=y
 # CONFIG_RE2_STATIC is not set
 CONFIG_PACKAGE_rpcd-mod-luci=y
+# CONFIG_PACKAGE_rpcd-mod-lxc is not set
 # CONFIG_PACKAGE_rpcd-mod-rad2-enc is not set
 CONFIG_PACKAGE_rpcd-mod-rrdns=y
 # CONFIG_PACKAGE_rxtx is not set
@@ -4657,7 +4521,7 @@ CONFIG_PACKAGE_zlib=y
 # 1. Collections
 #
 CONFIG_PACKAGE_luci=y
-CONFIG_PACKAGE_luci-nginx=y
+# CONFIG_PACKAGE_luci-nginx is not set
 # CONFIG_PACKAGE_luci-ssl is not set
 CONFIG_PACKAGE_luci-ssl-nginx=y
 CONFIG_PACKAGE_luci-ssl-openssl=y
@@ -5408,7 +5272,7 @@ CONFIG_PACKAGE_openssh-client=y
 CONFIG_PACKAGE_openssh-client-utils=y
 CONFIG_PACKAGE_openssh-keygen=y
 CONFIG_PACKAGE_openssh-moduli=y
-CONFIG_PACKAGE_openssh-server=y
+# CONFIG_PACKAGE_openssh-server is not set
 CONFIG_PACKAGE_openssh-server-pam=y
 CONFIG_PACKAGE_openssh-sftp-avahi-service=y
 CONFIG_PACKAGE_openssh-sftp-client=y
@@ -5573,12 +5437,7 @@ CONFIG_PACKAGE_cgi-io=y
 # CONFIG_PACKAGE_kcptun-c is not set
 # CONFIG_PACKAGE_kcptun-s is not set
 # CONFIG_PACKAGE_lighttpd is not set
-CONFIG_PACKAGE_nginx=y
-
-#
-# Configuration
-#
-# CONFIG_NGINX_SSL is not set
+# CONFIG_PACKAGE_nginx is not set
 # CONFIG_NGINX_DAV is not set
 CONFIG_NGINX_UBUS=y
 # CONFIG_NGINX_FLV is not set
@@ -5623,7 +5482,7 @@ CONFIG_NGINX_HEADERS_MORE=y
 # CONFIG_NGINX_RTMP_MODULE is not set
 # CONFIG_NGINX_TS_MODULE is not set
 CONFIG_PACKAGE_nginx-all-module=y
-CONFIG_PACKAGE_nginx-mod-luci=y
+# CONFIG_PACKAGE_nginx-mod-luci is not set
 CONFIG_PACKAGE_nginx-mod-luci-ssl=y
 CONFIG_PACKAGE_nginx-ssl=y
 
@@ -6335,8 +6194,48 @@ CONFIG_PACKAGE_libjson-script=y
 # CONFIG_PACKAGE_lrzsz is not set
 # CONFIG_PACKAGE_lscpu is not set
 # CONFIG_PACKAGE_lsof is not set
-# CONFIG_PACKAGE_lxc is not set
+CONFIG_PACKAGE_lxc=y
+
+#
+# Configuration
+#
+# CONFIG_LXC_KERNEL_OPTIONS is not set
+# CONFIG_LXC_BUSYBOX_OPTIONS is not set
+# CONFIG_LXC_SECCOMP is not set
+# CONFIG_LXC_NETWORKING is not set
+# CONFIG_PACKAGE_lxc-attach is not set
+# CONFIG_PACKAGE_lxc-auto is not set
+# CONFIG_PACKAGE_lxc-autostart is not set
+# CONFIG_PACKAGE_lxc-cgroup is not set
+# CONFIG_PACKAGE_lxc-checkconfig is not set
+# CONFIG_PACKAGE_lxc-common is not set
+# CONFIG_PACKAGE_lxc-config is not set
+# CONFIG_PACKAGE_lxc-configs is not set
+# CONFIG_PACKAGE_lxc-console is not set
+# CONFIG_PACKAGE_lxc-copy is not set
+# CONFIG_PACKAGE_lxc-create is not set
+# CONFIG_PACKAGE_lxc-destroy is not set
+# CONFIG_PACKAGE_lxc-device is not set
+# CONFIG_PACKAGE_lxc-execute is not set
+# CONFIG_PACKAGE_lxc-freeze is not set
+# CONFIG_PACKAGE_lxc-hooks is not set
+# CONFIG_PACKAGE_lxc-info is not set
+# CONFIG_PACKAGE_lxc-init is not set
+# CONFIG_PACKAGE_lxc-ls is not set
+# CONFIG_PACKAGE_lxc-lua is not set
+# CONFIG_PACKAGE_lxc-monitor is not set
+# CONFIG_PACKAGE_lxc-monitord is not set
+# CONFIG_PACKAGE_lxc-snapshot is not set
+# CONFIG_PACKAGE_lxc-start is not set
+# CONFIG_PACKAGE_lxc-stop is not set
+# CONFIG_PACKAGE_lxc-templates is not set
+# CONFIG_PACKAGE_lxc-top is not set
+# CONFIG_PACKAGE_lxc-unfreeze is not set
 # CONFIG_PACKAGE_lxc-unprivileged is not set
+# CONFIG_PACKAGE_lxc-unshare is not set
+# CONFIG_PACKAGE_lxc-user-nic is not set
+# CONFIG_PACKAGE_lxc-usernsexec is not set
+# CONFIG_PACKAGE_lxc-wait is not set
 # CONFIG_PACKAGE_maccalc is not set
 # CONFIG_PACKAGE_macchanger is not set
 # CONFIG_PACKAGE_mbedtls-util is not set
